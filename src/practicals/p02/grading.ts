@@ -15,3 +15,4 @@ if (Number.isNaN(score) || score < 0 || score > 100){
 }else {
     console.log("Grade is F");
 }
+
